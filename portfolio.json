@@ -1,0 +1,15 @@
+{
+  "name": "BCA Student",
+  "skills": ["JavaScript", "HTML", "CSS", "C", "C++", "Python (Basic)", "Data Structures & Algorithms", "MySQL", "SQL", "Java (Basic)"],
+  "projects": [
+    {
+      "title": "Frontend Landing Page",
+      "description": "Developed a responsive landing page using HTML/CSS/JS"
+    },
+    {
+      "title": "API-based Chatbot",
+      "description": "Built chatbot interface using API integration"
+    }
+  ],
+  "education": "Bachelor of Computer Applications (BCA)"
+}
